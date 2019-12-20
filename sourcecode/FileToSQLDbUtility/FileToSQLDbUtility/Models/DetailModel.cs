@@ -1,0 +1,142 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace FileToSQLDbUtility.Models
+{
+    public class DetailModel
+    {
+        public string FIELD1 { get; set; }
+        public string FIELD2 { get; set; }
+        public string FIELD3 { get; set; }
+        public string FIELD4 { get; set; }
+        public string FIELD5 { get; set; }
+        public string FIELD6 { get; set; }
+        public string FIELD7 { get; set; }
+        public string FIELD8 { get; set; }
+        public string FIELD9 { get; set; }
+        public string FIELD10 { get; set; }
+        public string FIELD11 { get; set; }
+        public string FIELD12 { get; set; }
+        public string FIELD13 { get; set; }
+        public string FIELD14 { get; set; }
+        public string FIELD15 { get; set; }
+        public string FIELD16 { get; set; }
+        public string FIELD17 { get; set; }
+        public string FIELD18 { get; set; }
+        public string FIELD19 { get; set; }
+        public string FIELD20 { get; set; }
+        public string FIELD21 { get; set; }
+        public string FIELD22 { get; set; }
+        public string FIELD23 { get; set; }
+        public string FIELD24 { get; set; }
+        public string FIELD25 { get; set; }
+        public string FIELD26 { get; set; }
+        public string FIELD27 { get; set; }
+        public string FIELD28 { get; set; }
+        public string FIELD29 { get; set; }
+        public string FIELD30 { get; set; }
+        public string FIELD31 { get; set; }
+        public string FIELD32 { get; set; }
+        public string FIELD33 { get; set; }
+        public string FIELD34 { get; set; }
+        public string FIELD35 { get; set; }
+        public string FIELD36 { get; set; }
+        public string FIELD37 { get; set; }
+        public string FIELD38 { get; set; }
+        public string FIELD39 { get; set; }
+        public string FIELD40 { get; set; }
+        public string FIELD41 { get; set; }
+        public string FIELD42 { get; set; }
+        public string FIELD43 { get; set; }
+        public string FIELD44 { get; set; }
+        public string FIELD45 { get; set; }
+        public string FIELD46 { get; set; }
+        public string FIELD47 { get; set; }
+        public string FIELD48 { get; set; }
+        public string FIELD49 { get; set; }
+        public string FIELD50 { get; set; }
+        public string FIELD51 { get; set; }
+        public string FIELD52 { get; set; }
+        public string FIELD53 { get; set; }
+        public string FIELD54 { get; set; }
+        public string FIELD55 { get; set; }
+        public string FIELD56 { get; set; }
+        public string FIELD57 { get; set; }
+        public string FIELD58 { get; set; }
+        public string FIELD59 { get; set; }
+        public string FIELD60 { get; set; }
+        public string FIELD61 { get; set; }
+        public string FIELD62 { get; set; }
+        public string FIELD63 { get; set; }
+        public string FIELD64 { get; set; }
+        public string FIELD65 { get; set; }
+        public string FIELD66 { get; set; }
+        public string FIELD67 { get; set; }
+        public string FIELD68 { get; set; }
+        public string FIELD69 { get; set; }
+        public string FIELD70 { get; set; }
+        public string FIELD71 { get; set; }
+        public string FIELD72 { get; set; }
+        public string FIELD73 { get; set; }
+        public string FIELD74 { get; set; }
+        public string FIELD75 { get; set; }
+        public string FIELD76 { get; set; }
+        public string FIELD77 { get; set; }
+        public string FIELD78 { get; set; }
+        public string FIELD79 { get; set; }
+        public string FIELD80 { get; set; }
+        public string FIELD81 { get; set; }
+        public string FIELD82 { get; set; }
+        public string FIELD83 { get; set; }
+        public string FIELD84 { get; set; }
+        public string FIELD85 { get; set; }
+        public string FIELD86 { get; set; }
+        public string FIELD87 { get; set; }
+        public string FIELD88 { get; set; }
+        public string FIELD89 { get; set; }
+        public string FIELD90 { get; set; }
+        public string FIELD91 { get; set; }
+        public string FIELD92 { get; set; }
+        public string FIELD93 { get; set; }
+        public string FIELD94 { get; set; }
+        public string FIELD95 { get; set; }
+        public string FIELD96 { get; set; }
+        public string FIELD97 { get; set; }
+        public string FIELD98 { get; set; }
+        public string FIELD99 { get; set; }
+        public string FIELD100 { get; set; }
+        public string FIELD101 { get; set; }
+        public string FIELD102 { get; set; }
+        public string FIELD103 { get; set; }
+        public string FIELD104 { get; set; }
+        public string FIELD105 { get; set; }
+        public string FIELD106 { get; set; }
+        public string FIELD107 { get; set; }
+        public string FIELD108 { get; set; }
+        public string FIELD109 { get; set; }
+        public string FIELD110 { get; set; }
+        public string FIELD111 { get; set; }
+        public string FIELD112 { get; set; }
+        public string FIELD113 { get; set; }
+        public string FIELD114 { get; set; }
+        public string FIELD115 { get; set; }
+        public string FIELD116 { get; set; }
+        public string FIELD117 { get; set; }
+        public string FIELD118 { get; set; }
+        public string FIELD119 { get; set; }
+        public string FIELD120 { get; set; }
+        public string FIELD121 { get; set; }
+        public string FIELD122 { get; set; }
+        public string FIELD123 { get; set; }
+        public string FIELD124 { get; set; }
+        public string FIELD125 { get; set; }
+        public string FIELD126 { get; set; }
+        public string FIELD127 { get; set; }
+        public string FIELD128 { get; set; }
+        public string FIELD129 { get; set; }
+
+    }
+}

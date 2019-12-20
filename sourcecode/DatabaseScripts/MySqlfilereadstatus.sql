@@ -1,0 +1,7 @@
+CREATE TABLE `filereadstatus` (
+  `Id` int(11) NOT NULL AUTO_INCREMENT,
+  `FileName` varchar(100) DEFAULT NULL,
+  `FileStatus` int(11) DEFAULT NULL,
+  `ProcessedOn` datetime DEFAULT CURRENT_TIMESTAMP,
+  PRIMARY KEY (`Id`)
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8;
